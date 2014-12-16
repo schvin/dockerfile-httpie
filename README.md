@@ -7,7 +7,7 @@ and web pages from the command line.
 To run:
 
 ```
-docker run --rm -t schvin/dockerfile-httpie -v https://google.com/
+docker run --rm -t schvin/httpie -v https://google.com/
 ```
 
 The HTTPie README has many useful examples: https://github.com/jakubroztocil/httpie
